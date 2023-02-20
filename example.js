@@ -1,4 +1,4 @@
-const {encode, decode} = require('./encoder.js')
+const {encode, decode} = require('./Encoder')
 
 
 const str = 'This is an example sentence to try encoding out on!'
